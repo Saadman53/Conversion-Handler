@@ -1,7 +1,4 @@
-package com.reve.sms.common.excelParser;
-
 import lombok.Data;
-
 import java.util.ArrayList;
 
 @Data
