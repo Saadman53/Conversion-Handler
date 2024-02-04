@@ -1,10 +1,6 @@
-package com.reve.sms.common.excelParser;
-
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import lombok.Data;
-
 import java.util.ArrayList;
-
 //Json data from Excel file
 @Data
 public class ParsedSheet {
